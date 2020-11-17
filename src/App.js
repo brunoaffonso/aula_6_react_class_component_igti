@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Counter from './components/Counter/Counter';
 import Counter2 from './components/Counter/Counter2';
-import Band from './components/Band';
+import Band from './components/Band/Band';
 
 export default class App extends Component {
     constructor() {
